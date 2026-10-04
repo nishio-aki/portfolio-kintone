@@ -54,7 +54,7 @@
 - Power BIによる**業務データの可視化**
 - **保守性・デバッグ性を考慮した疎結合アーキテクチャ**
 
-👉 **[詳細・設計判断](./m365/)**
+👉 **[詳細・設計判断](https://github.com/nishio-aki/ops-m365-pipeline/)**
 
 ---
 
@@ -76,7 +76,7 @@ Google Workspaceを活用し、**申請から承認・通知・失効管理ま�
 - スプレッドシートによる**データ管理**
 - 有給休暇の**取得状況・失効を考慮した管理**
 
-👉 **[詳細・ソースコード](./google-workspace/)**  
+👉 **[詳細・ソースコード](https://github.com/nishio-aki/aki-leave-manager/blob/main/README.md/)**  
 👉 **[デモ動画](#)**
 
 ---
