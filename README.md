@@ -31,7 +31,7 @@
 - 現場で発生する**例外処理を考慮**
 - kintoneを基盤として **JavaScript / REST API** で拡張
 
-👉 **[詳細・設計判断・ソースコード](./https://github.com/nishio-aki/equipment-lending-management-kintone/)**
+👉 **[詳細・設計判断・ソースコード](https://github.com/nishio-aki/equipment-lending-management-kintone/)**
 
 ---
 
